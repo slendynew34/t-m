@@ -1,0 +1,1503 @@
+PS F:\PokeForms-1.12.2-14.23.5.2864-mdk> Get-ChildItem ".\run\pixelmon\spawning" -Recurse -File |
+>> Select-Object FullName, Length
+
+FullName                                                                                                        Length
+--------                                                                                                        ------
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Aron Line Caverock.set.json            944
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Beldum Caverock.set.json               470
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Bronzor Line Caverock.set.json         900
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Bunnelby Line Caverock.set.json        605
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Carbink Caverock.set.json              358
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Clefairy Line Caverock.set.json       1046
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Deino Caverock.set.json                401
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Diglett Line Caverock.set.json         884
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Drilbur Line Caverock.set.json         605
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Druddigon Caverock.set.json            504
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Dunsparce Caverock.set.json            354
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Durant Caverock.set.json               422
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Gastly Line Caverock.set.json         1018
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Geodude Line Caverock.set.json         782
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Gible Caverock.set.json                346
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Golett Caverock.set.json               470
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Larvitar Line Caverock.set.json        706
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Lunatone Caverock.set.json             588
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Mawile Caverock.set.json               476
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Noibat Line Caverock.set.json          751
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Nosepass Line Caverock.set.json        895
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Onix Caverock.set.json                 620
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Roggenrola Line Caverock.set.json     1150
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Rolycoly Line Caverock.set.json       1088
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Sableye Caverock.set.json              655
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Silicobra Line Caverock.set.json       699
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Solrock Caverock.set.json              583
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Stunfisk Caverock.set.json             495
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Woobat Line Caverock.set.json          825
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Yamask Line Caverock.set.json         2809
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Zubat Line Caverock.set.json           868
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Alomomola Line Fishing.set.json         407
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Arrokuda Line Fishing.set.json         1348
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Barboach Line Fishing.set.json         1340
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Basculin Line Fishing.set.json         2640
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Bruxish Fishing.set.json                495
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Carvanha Line Fishing.set.json         2344
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Chewtle Line Fishing.set.json          1332
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Chinchou Line Fishing.set.json         1781
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Clamperl Line Fishing.set.json         2032
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Clauncher Line Fishing.set.json        1262
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Clobbopus Line Fishing.set.json        1162
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Corphish Line Fishing.set.json         1109
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Corsola Line Fishing.set.json          1574
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Dewpider Line Fishing.set.json         1834
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Dhelmise Fishing.set.json               402
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Dratini Line Fishing.set.json          1543
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Feebas Line Fishing.set.json           1642
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Finneon Line Fishing.set.json          1264
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Frillish Line Fishing.set.json         1110
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Froakie Line Fishing.set.json          1910
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Goldeen Line Fishing.set.json          1931
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Grimer Line Fishing.set.json           2449
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Horsea Line Fishing.set.json           2665
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Krabby Line Fishing.set.json            981
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Luvdisc Fishing.set.json                946
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Magikarp Fishing.set.json              1929
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Magmar Fishing.set.json                 937
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Mantine Fishing.set.json                743
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Mareanie Line Fishing.set.json         2484
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Pincurchin Fishing.set.json             704
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Poliwag Line Fishing.set.json          2255
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Qwilfish Line Fishing.set.json         1394
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Relicanth Fishing.set.json              486
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Remoraid Line Fishing.set.json         1352
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Salandit Line Fishing.set.json         1398
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Seel Line Fishing.set.json             1836
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Shellder Line Fishing.set.json         1595
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Shellos Line Fishing.set.json          1614
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Skrelp Line Fishing.set.json           1157
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Slugma Line Fishing.set.json           1429
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Spheal Line Fishing.set.json           2298
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Staryu Line Fishing.set.json           1806
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Tentacool Line Fishing.set.json        1946
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Torkoal Fishing.set.json               1030
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Turtonator Fishing.set.json             481
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Tympole Line Fishing.set.json          1900
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Tynamo Line Fishing.set.json           2306
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Vaporeon Fishing.set.json               537
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Wailmer Line Fishing.set.json          1011
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\Wishiwashi Fishing.set.json            1032
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\loot\Lava Loot.set.json                9011
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\fishing\loot\Water Loot.set.json              19351
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\forage\Blipbug Forage.set.json                  348
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\forage\Caterpie Forage.set.json                 350
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\forage\Corphish Forage.set.json                 350
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\forage\Diglett Forage.set.json                  925
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\forage\Durant Forage.set.json                   352
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\forage\Grubbin Forage.set.json                  348
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\forage\Snom Forage.set.json                     344
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\forage\Staryu Forage.set.json                   690
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\forage\Stunfisk Forage.set.json                 930
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\forage\Trapinch Forage.set.json                 468
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\forage\Weedle Forage.set.json                   345
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\forage\Wurmple Forage.set.json                  568
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\forage\loot\Forage Loot.set.json              83856
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Abra Line Grass.set.json                 2276
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Absol Grass.set.json                      688
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Aipom Line Grass.set.json                 746
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Applin Line Grass.set.json               1300
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Aron Line Grass.set.json                 1299
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Audino Grass.set.json                     584
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Axew Line Grass.set.json                 1135
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Bagon Line Grass.set.json                1450
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Baltoy Line Grass.set.json               1016
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Beldum Line Grass.set.json               4268
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Bellsprout Line Grass.set.json           1200
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Bergmite Line Grass.set.json              986
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Bidoof Line Grass.set.json                780
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Binacle Line Grass.set.json               745
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Blipbug Line Grass.set.json              1172
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Blitzle Line Grass.set.json               818
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Bouffalant Grass.set.json                 448
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Bounsweet Line Grass.set.json            1171
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Bronzor Line Grass.set.json              1872
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Buizel Line Grass.set.json                749
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Bulbasaur Line Grass.set.json            1254
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Buneary Line Grass.set.json               759
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Bunnelby Line Grass.set.json              741
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Burmy Line Grass.set.json                1729
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Cacnea Line Grass.set.json               1454
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Carbink Grass.set.json                    399
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Carnivine Grass.set.json                  439
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Castform Grass.set.json                  2142
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Caterpie Line Grass.set.json             1532
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Chansey Line Grass.set.json               997
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Charmander Line Grass.set.json           1544
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Chatot Grass.set.json                     511
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Cherubi Line Grass.set.json              1484
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Chespin Line Grass.set.json              1148
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Chewtle Line Grass.set.json               687
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Chikorita Line Grass.set.json            1914
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Chimchar Line Grass.set.json             1872
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Chimecho Grass.set.json                   607
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Cleffa Line Grass.set.json               2318
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Combee Line Grass.set.json                900
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Comfey Grass.set.json                     395
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Corphish Line Grass.set.json              783
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Cottonee Line Grass.set.json              992
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Crabrawler Line Grass.set.json           1039
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Cramorant Grass.set.json                  437
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Croagunk Line Grass.set.json             1097
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Cryogonal Grass.set.json                 1127
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Cubchoo Line Grass.set.json               862
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Cubone Line Grass.set.json               1715
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Cufant Line Grass.set.json                783
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Cutiefly Line Grass.set.json              788
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Cyndaquil Line Grass.set.json            1093
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Darumaka Line Grass.set.json             1549
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Dedenne Grass.set.json                    581
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Deerling Line Grass.set.json             2743
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Deino Line Grass.set.json                1203
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Delibird Grass.set.json                   454
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Diglett Line Grass.set.json              2046
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Doduo Line Grass.set.json                1019
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Drampa Grass.set.json                     558
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Dreepy Line Grass.set.json               1149
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Drifloon Line Grass.set.json             1470
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Drowzee Line Grass.set.json               782
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Druddigon Grass.set.json                  547
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Ducklett Line Grass.set.json              779
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Dunsparce Grass.set.json                  395
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Duraludon Grass.set.json                  401
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Duskull Line Grass.set.json              2289
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Dwebble Line Grass.set.json              1065
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Eevee Line Grass.set.json                3465
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Eiscue Grass.set.json                     650
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Ekans Line Grass.set.json                1780
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Electabuzz Grass.set.json                 707
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Electrike Line Grass.set.json             794
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Elgyem Line Grass.set.json               1348
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Emolga Grass.set.json                     390
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Espurr Line Grass.set.json                794
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Exeggcute Line Grass.set.json            1340
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Falinks Grass.set.json                    435
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Farfetchd Line Grass.set.json            1480
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Fennekin Line Grass.set.json             1699
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Ferroseed Line Grass.set.json            1057
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Flabebe Line Grass.set.json              2468
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Fletchling Line Grass.set.json           1188
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Fomantis Line Grass.set.json             1439
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Foongus Line Grass.set.json              1276
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Froakie Line Grass.set.json              1129
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Furfrou Grass.set.json                    413
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Gastly Line Grass.set.json               1788
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Geodude Line Grass.set.json              2006
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Gible Line Grass.set.json                1089
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Girafarig Grass.set.json                  400
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Glameow Line Grass.set.json               744
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Gligar Line Grass.set.json                860
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Golett Line Grass.set.json                997
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Goomy Line Grass.set.json                1474
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Gossifleur Line Grass.set.json            749
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Gothita Line Grass.set.json              2194
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Grimer Line Grass.set.json               1995
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Grookey Line Grass.set.json              1093
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Growlithe Line Grass.set.json             861
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Grubbin Line Grass.set.json              1407
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Gulpin Line Grass.set.json               1545
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Hatenna Line Grass.set.json              1147
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Hawlucha Grass.set.json                   586
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Heatmor Grass.set.json                    430
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Helioptile Line Grass.set.json            752
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Heracross Grass.set.json                  436
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Hippopotas Line Grass.set.json            792
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Hitmonchan Grass.set.json                 424
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Hitmonlee Grass.set.json                  422
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Hitmontop Grass.set.json                  424
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Honedge Line Grass.set.json              1096
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Hoothoot Line Grass.set.json              857
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Hoppip Line Grass.set.json               1163
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Houndour Line Grass.set.json             1375
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Illumise Grass.set.json                   561
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Impidimp Line Grass.set.json             2452
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Indeedee Grass.set.json                   637
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Inkay Line Grass.set.json                 831
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Jangmoo Line Grass.set.json              1559
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Jigglypuff Line Grass.set.json           1239
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Joltik Line Grass.set.json                668
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Jynx Grass.set.json                       397
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Kangaskhan Grass.set.json                 481
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Karrablast Grass.set.json                 419
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Kecleon Grass.set.json                    393
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Klefki Grass.set.json                     413
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Klink Line Grass.set.json                1821
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Koffing Line Grass.set.json              1598
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Komala Grass.set.json                     475
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Krabby Line Grass.set.json                824
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Kricketot Line Grass.set.json            1036
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Larvesta Line Grass.set.json              892
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Larvitar Line Grass.set.json             1162
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Ledyba Line Grass.set.json                872
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Lickitung Line Grass.set.json             997
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Lillipup Line Grass.set.json             1127
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Litleo Line Grass.set.json                741
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Litten Line Grass.set.json               1727
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Litwick Line Grass.set.json              2074
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Lotad Line Grass.set.json                2082
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Lunatone Grass.set.json                  1120
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Machop Line Grass.set.json               1032
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Magby Line Grass.set.json                1231
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Magnemite Line Grass.set.json            2205
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Makuhita Line Grass.set.json             1456
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Mankey Line Grass.set.json                780
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Maractus Grass.set.json                   556
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Mareep Line Grass.set.json               1170
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Marill Line Grass.set.json               1025
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Mawile Grass.set.json                     993
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Meditite Line Grass.set.json              852
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Meowth Line Grass.set.json               3467
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Mienfoo Line Grass.set.json               750
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Milcery Grass.set.json                   1090
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Miltank Grass.set.json                    516
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Mimikyu Grass.set.json                    595
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Minccino Line Grass.set.json             1051
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Minior Grass.set.json                    1025
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Minun Grass.set.json                      557
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Misdreavus Line Grass.set.json           1117
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Morelull Line Grass.set.json             1328
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Morpeko Grass.set.json                    600
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\MrMime Line Grass.set.json               1158
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Mudbray Line Grass.set.json              1259
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Mudkip Line Grass.set.json               1236
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Munna Line Grass.set.json                 927
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Murkrow Line Grass.set.json               979
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Natu Line Grass.set.json                  782
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Nickit Line Grass.set.json                815
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Nidoranfemale Line Grass.set.json        1175
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Nidoranmale Line Grass.set.json          1164
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Nincada Line Grass.set.json              1290
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Noibat Line Grass.set.json                739
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Nosepass Line Grass.set.json              884
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Numel Line Grass.set.json                1184
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Oddish Line Grass.set.json               2355
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Onix Grass.set.json                       504
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Oranguru Grass.set.json                   429
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Oricorio Grass.set.json                  1575
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Oshawott Line Grass.set.json             1677
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Pachirisu.set.json                        329
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Palpitoad Line Grass.set.json            1171
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Pancham Line Grass.set.json              1096
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Panpour Line Grass.set.json               750
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Pansage Line Grass.set.json               650
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Pansear Line Grass.set.json               752
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Paras Grass Line.set.json                1364
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Passimian Grass.set.json                  429
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Patrat Line Grass.set.json                786
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Pawniard Line Grass.set.json             1747
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Petilil Line Grass.set.json               997
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Phanpy Line Grass.set.json                789
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Phantump Grass.set.json                   457
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Pidgey Line Grass.set.json               1085
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Pidove Line Grass.set.json               1305
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Pikachu Line Grass.set.json              1821
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Pikipek Line Grass.set.json              1457
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Pincurchin Grass.set.json                 403
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Pineco Line Grass.set.json                822
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Pinsir Grass.set.json                     470
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Piplup Line Grass.set.json               1716
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Plusle Grass.set.json                     557
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Poliwhirl Line Grass.set.json            1395
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Ponyta Line Grass.set.json               1759
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Poochyena Line Grass.set.json            1325
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Popplio Line Grass.set.json              1745
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Psyduck Line Grass.set.json              1147
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Pumpkaboo Grass.set.json                 4730
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Purrloin Line Grass.set.json              747
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Pyukumuku Grass.set.json                  371
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Ralts Line Grass.set.json                1481
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Rattata Line Grass.set.json              1888
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Rhyhorn Line Grass.set.json               899
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Riolu Line Grass.set.json                 900
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Rockruff Line Grass.set.json             1558
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Roggenrola Line Grass.set.json           1209
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Rolycoly Line Grass.set.json             2384
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Rookidee Line Grass.set.json             1279
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Roselia Line Grass.set.json              1039
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Rotom Grass.set.json                      434
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Rowlet Line Grass.set.json               1391
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Rufflet Line Grass.set.json               793
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Sableye Grass.set.json                    467
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Salandit Line Grass.set.json             2225
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Sandile Line Grass.set.json              1658
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Sandshrew Line Grass.set.json            2215
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Sandygast Line Grass.set.json            1064
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Sawk.set.json                             514
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Scatterbug Line Grass.set.json           8113
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Scorbunny Line Grass.set.json            1099
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Scraggy Line Grass.set.json              1081
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Scyther.set.json                          359
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Seedot Line Grass.set.json               1421
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Sentret Line Grass.set.json               647
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Seviper Grass.set.json                    523
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Sewaddle Line Grass.set.json             1578
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Shellder Grass.set.json                   710
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Shelmet Grass.set.json                    415
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Shinx Line Grass.set.json                1087
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Shroomish Linne Grass.set.json           1814
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Shuckle Grass.set.json                    494
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Shuppet Line Grass.set.json               988
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Sigilyph Grass.set.json                   712
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Silicobra Line Grass.set.json             783
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Sinistea Line Grass.set.json             2124
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Sizzlipede Line Grass.set.json            860
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Skarmory Grass.set.json                   523
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Skiddo Line Grass.set.json               1535
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Skitty Line Grass.set.json                828
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Skorupi Line Grass.set.json              1062
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Skwovet Line Grass.set.json               813
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Slakoth Line Grass.set.json              1094
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Slowpoke Line Grass.set.json             2131
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Slugma Line Grass.set.json               1609
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Smeargle Grass.set.json                   391
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Sneasel Line Grass.set.json              1190
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Snivy Line Grass.set.json                1099
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Snom Line Grass.set.json                  962
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Snorlax Grass.set.json                    551
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Snorunt Line Grass.set.json              1777
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Snover Line Grass.set.json               1120
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Snubbull Line Grass.set.json              752
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Sobble Line Grass.set.json               1646
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Solosis Line Grass.set.json              1084
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Solrock Grass.set.json                   1113
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Spearow Line Grass.set.json              1031
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Spinarak Line Grass.set.json              797
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Spinda Grass.set.json                     470
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Spiritomb Grass.set.json                  623
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Spoink Line Grass.set.json                843
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Spritzee Grass.set.json                   574
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Squirtle Line Grass.set.json             1918
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Stantler Grass.set.json                   462
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Starly Line Grass.set.json               1263
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Stonjourner Grass.set.json                400
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Stufful Line Grass.set.json               751
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Stunfisk Grass.set.json                   925
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Stunky Line Grass.set.json                903
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Sudowoodo Grass.set.json                  352
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Sunkern Line Grass.set.json               865
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Surskit Line Grass.set.json               924
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Swablu Line Grass.set.json                781
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Swinub Line Grass.set.json               1338
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Swirlix Grass.set.json                    456
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Taillow Line Grass.set.json               803
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Tangela Line Grass.set.json               784
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Tauros Grass.set.json                     464
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Teddiursa Line Grass.set.json             803
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Tepig Line Grass.set.json                1104
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Throh Grass.set.json                      557
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Timburr Line Grass.set.json               774
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Togedemaru Grass.set.json                 451
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Togetic Line Grass.set.json               789
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Torchic Line Grass.set.json              1104
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Torkoal Grass.set.json                   1220
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Totodile Line Grass.set.json             1630
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Toxel Line Grass.set.json                1684
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Trapinch Line Grass.set.json             1214
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Treecko Line Grass.set.json              1084
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Tropius Grass.set.json                    393
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Trubbish Line Grass.set.json             1104
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Turtonator Grass.set.json                 945
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Turtwig Line Grass.set.json              1149
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Unown Grass.set.json                      337
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Vanillite Line Grass.set.json            1662
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Venipede Line Grass.set.json             1536
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Venonat Line Grass.set.json               950
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Volbeat Grass.set.json                    559
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Voltorb Line Grass.set.json               741
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Vullaby Line Grass.set.json              1053
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Vulpix Line Grass.set.json               2294
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Weedle Line Grass.set.json               1463
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Whismur Line Grass.set.json              1710
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Wimpod Line Grass.set.json                994
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Wingull Line Grass.set.json              1111
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Woobat Line Grass.set.json                910
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Wooloo Line Grass.set.json                829
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Wooper Line Grass.set.json               1143
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Wurmple Line Grass.set.json              2381
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Wynaut Line Grass.set.json                995
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Yamask Line Grass.set.json               2790
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Yamper Line Grass.set.json                751
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Yanma Line Grass.set.json                1057
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Yungoos Line Grass.set.json               984
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Zangoose Grass.set.json                   527
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Zigzagoon Line Grass.set.json            2833
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Zorua Line Grass.set.json                 942
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\grass\Zubat Line Grass.set.json                1651
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Aipom Line Headbutt.set.json          1954
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Applin Headbutt.set.json              1519
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Blipbug Line Headbutt.set.json        2086
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Bounsweet Headbutt.set.json           1008
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Burmy Line Headbutt.set.json          2635
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Caterpie Headbutt.set.json            3887
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Chatot Headbutt.set.json               899
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Cherubi Headbutt.set.json             1042
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Combee Line Headbutt.set.json         2023
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Crabrawler Headbutt.set.json           909
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Ekans Headbutt.set.json               2175
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Exeggcute Headbutt.set.json           1088
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Fletchling Line Headbutt.set.json     2253
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Grubbin Line Headbutt.set.json        3413
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Heracross Headbutt.set.json           1155
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Hoothoot Line Headbutt.set.json       1863
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Komala Headbutt.set.json               963
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Ledyba Line Headbutt.set.json         2271
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Mankey Line Headbutt.set.json          807
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Murkrow Headbutt.set.json             1122
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Natu Headbutt.set.json                1075
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Pachirisu Headbutt.set.json           1011
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Panpour Line Headbutt.set.json         808
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Pansage Line Headbutt.set.json         808
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Pansear Line Headbutt.set.json         808
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Pidgey Line Headbutt.set.json         2199
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Pidove Line Headbutt.set.json         1847
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Pikipek Line Headbutt.set.json        1964
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Pineco Line Headbutt.set.json          965
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Pinsir Headbutt.set.json              1119
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Rookidee Line Headbutt.set.json       2005
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Rufflet Headbutt.set.json              976
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Scatterbug Line Headbutt.set.json     1843
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Seedot Headbutt.set.json               464
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Sewaddle Line Headbutt.set.json        705
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Shroomish Headbutt.set.json           1094
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Sizzlipede Line Headbutt.set.json     1763
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Skorupi Headbutt.set.json             2384
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Skwovet Line Headbutt.set.json         975
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Slakoth Headbutt.set.json              900
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Snom Line Headbutt.set.json           1351
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Spearow Line Headbutt.set.json        1846
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Spinarak Line Headbutt.set.json       2459
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Starly Line Headbutt.set.json         1905
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Swablu Line Headbutt.set.json         1951
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Taillow Line Headbutt.set.json        2040
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Venipede Line Headbutt.set.json       2616
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Venonat Line Headbutt.set.json        2032
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Vullaby Headbutt.set.json              934
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Weedle Line Headbutt.set.json         3750
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\Wurmple Line Headbutt.set.json        4705
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\headbutt\loot\Headbutt Loot.set.json           9261
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Absol.set.json                      554
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Aegislash.set.json                  644
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Aggron.set.json                     556
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Arcanine.set.json                   511
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Arceus.set.json                    1498
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Articuno.set.json                   511
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Azelf.set.json                      446
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Blastoise.set.json                 1837
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Blaziken.set.json                  1083
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Cacturne.set.json                   561
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Calyrex.set.json                    580
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Charizard.set.json                 1837
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Cinderace.set.json                 1240
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Cobalion.set.json                  1241
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Corviknight.set.json                517
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Cosmog.set.json                     462
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Cramorant.set.json                  644
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Cresselia.set.json                 1019
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Crobat.set.json                     638
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Darkrai.set.json                   1569
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Delphox.set.json                    509
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Dialga.set.json                    2055
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Diancie.set.json                    920
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Dragapult.set.json                 1242
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Dragonair.set.json                  644
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Eevee.set.json                     1228
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Empoleon.set.json                   642
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Enamorus.set.json                   459
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Entei.set.json                     1775
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Eternatus.set.json                  478
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Flygon.set.json                     971
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Gallade.set.json                    640
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Garchomp.set.json                  1593
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Gardevoir.set.json                 1619
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Genesect.set.json                   883
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Gengar.set.json                    1231
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Giratina.set.json                  1564
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Glastrier.set.json                  445
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Greninja.set.json                  1398
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Haxorus.set.json                    510
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Ho-oh.set.json                      508
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Hoopa.set.json                      602
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Hydreigon.set.json                  980
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Incineroar.set.json                 515
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Jirachi.set.json                   1245
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Keldeo.set.json                     454
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Kubfu.set.json                      505
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Kyogre.set.json                    2096
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Landorus.set.json                  1027
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Lapras.set.json                     576
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Latias.set.json                    1255
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Latios.set.json                     850
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Lucario.set.json                   2424
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Lugia.set.json                     1657
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Lunala.set.json                    1573
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Magearna.set.json                   534
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Mamoswine.set.json                  644
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Manaphy.set.json                   1001
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Marshadow.set.json                  953
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Melmetal.set.json                   642
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Meloetta.set.json                   462
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Mesprit.set.json                    471
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Metagross.set.json                  565
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Mew.set.json                       1136
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Mewtwo.set.json                    4536
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Milotic.set.json                    529
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Missingno.set.json                 3634
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Moltres.set.json                    999
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Mrmime.set.json                     638
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Necrozma.set.json                   667
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Ninetales.set.json                  644
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Noivern.set.json                    509
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Palkia.set.json                     971
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Pikachu.set.json                    640
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Porygon.set.json                    620
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Raikou.set.json                     884
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Rayquaza.set.json                  3158
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Regice.set.json                     482
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Regidrago.set.json                  445
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Regieleki.set.json                  887
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Regigigas.set.json                  496
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Registeel.set.json                  953
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Reshiram.set.json                  1294
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Salamence.set.json                 1242
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Sandshrew.set.json                  625
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Scizor.set.json                    1081
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Sharpedo.set.json                   622
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Shaymin.set.json                    648
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Slaking.set.json                    561
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Snorlax.set.json                    640
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Solgaleo.set.json                   511
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Spectrier.set.json                  862
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Stakataka.set.json                  553
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Suicune.set.json                   1820
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\TapuBulu.set.json                   472
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\TapuFini.set.json                   488
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\TapuKoko.set.json                   476
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\TapuLele.set.json                   474
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Terrakion.set.json                 1244
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Thundurus.set.json                  698
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Tornadus.set.json                   698
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Torterra.set.json                   512
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\TypeNull.set.json                   464
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Tyranitar.set.json                  514
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Uxie.set.json                       453
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Vaporeon.set.json                   512
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Venusaur.set.json                  2429
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Victini.set.json                    510
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Virizion.set.json                   634
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Volcanion.set.json                  526
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Wigglytuff.set.json                 646
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Xerneas.set.json                   2163
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Yveltal.set.json                   2165
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Zacian.set.json                    2471
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Zamazenta.set.json                  571
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Zarude.set.json                     443
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Zekrom.set.json                    1728
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\legendaries\Zeraora.set.json                    477
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Abomasnow.set.json                   409
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Absol.set.json                       381
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Aerodactyl.set.json                  373
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Aggron.set.json                      360
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Alakazam.set.json                    383
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Altaria.set.json                     363
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Ampharos.set.json                    387
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Audino.set.json                      362
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Banette.set.json                     355
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Beedrill.set.json                    390
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Blastoise.set.json                   368
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Blaziken.set.json                    367
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Camerupt.set.json                    382
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Charizard.set.json                   371
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Diancie.set.json                     368
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Gallade.set.json                     364
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Garchomp.set.json                    363
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Gardevoir.set.json                   368
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Gengar.set.json                      353
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Glalie.set.json                      363
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Gyarados.set.json                    367
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Heracross.set.json                   389
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Houndoom.set.json                    382
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Kangaskhan.set.json                  371
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Latias.set.json                      407
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Latios.set.json                      409
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Lopunny.set.json                     373
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Lucario.set.json                     376
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Manectric.set.json                   437
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Mawile.set.json                      398
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Medicham.set.json                    410
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Metagross.set.json                   388
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Mewtwo.set.json                      361
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Pidgeot.set.json                     409
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Pinsir.set.json                      383
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Rayquaza.set.json                    369
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Sableye.set.json                     334
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Salamence.set.json                   365
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Sceptile.set.json                    366
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Scizor.set.json                      384
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Sharpedo.set.json                    388
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Slowbro.set.json                     383
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Steelix.set.json                     387
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Swampert.set.json                    365
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Tyranitar.set.json                   391
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Mega Venusaur.set.json                    387
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Primal Groudon.set.json                   363
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\megas\Primal Kyogre.set.json                    365
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\npcs\OldFishermen.set.json                      640
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\npcs\Relearners.set.json                        511
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\npcs\Shopkeepers.set.json                       513
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\npcs\Traders.set.json                           505
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\npcs\Trainers.set.json                        14805
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\npcs\Tutors.set.json                            512
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Aron Line Rocksmash.set.json          654
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Binacle Line Rocksmash.set.json       667
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Carbink Rocksmash.set.json            319
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Chewtle Line Rocksmash.set.json       701
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Corphish Rocksmash.set.json           377
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Corsola Rocksmash.set.json           1085
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Diglett Line Rocksmash.set.json      1409
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Dunsparce Rocksmash.set.json          623
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Durant Rocksmash.set.json             394
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Dwebble Line Rocksmash.set.json       663
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Geodude Line Rocksmash.set.json      1437
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Krabby Line Rocksmash.set.json        704
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Minior Rocksmash.set.json             411
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Nosepass Line Rocksmash.set.json     1279
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Onix Rocksmash.set.json               313
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Roggenrola Line Rocksmash.set.json    929
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Rolycoly Line Rocksmash.set.json      891
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Shuckle Rocksmash.set.json            356
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\Slugma Line Rocksmash.set.json        694
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\rocksmash\loot\Rock Smash Loot.set.json       16022
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Abomasnow.set.json                     601
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Abra.set.json                          875
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Absol.set.json                         680
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Aegislash.set.json                     779
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Aggron.set.json                        457
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Aipom.set.json                         452
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Alakazam.set.json                      463
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Alomomola.set.json                     413
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Altaria.set.json                       425
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ambipom.set.json                       458
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Amoonguss.set.json                     676
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ampharos.set.json                      433
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Appletun.set.json                      388
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Applin.set.json                        648
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Araquanid.set.json                     489
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Arbok.set.json                        1389
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Arcanine.set.json                     1376
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ariados.set.json                       432
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Aron.set.json                         1071
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Arrokuda.set.json                      364
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Audino.set.json                        623
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Avalugg.set.json                      1185
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Axew.set.json                          422
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Azumarill.set.json                     937
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bagon.set.json                        1007
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Baltoy.set.json                       1066
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Banette.set.json                       740
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Barbaracle.set.json                    413
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Barboach.set.json                      672
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Barraskewda.set.json                   369
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Basculegion.set.json                   406
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Basculin.set.json                     1409
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bayleef.set.json                       586
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Beartic.set.json                       363
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Beautifly.set.json                     626
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Beedrill.set.json                     1231
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Beheeyem.set.json                      701
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Beldum.set.json                       1813
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bellossom.set.json                    1696
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bellsprout.set.json                   1217
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bergmite.set.json                      550
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bewear.set.json                        337
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bibarel.set.json                       453
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bidoof.set.json                        451
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Binacle.set.json                       409
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bisharp.set.json                       940
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Blacephalon.set.json                   837
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Blastoise.set.json                     665
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Blaziken.set.json                      393
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Blipbug.set.json                       467
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Blissey.set.json                      1028
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Blitzle.set.json                       424
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Boldore.set.json                      1148
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Boltund.set.json                       852
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bouffalant.set.json                    437
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bounsweet.set.json                     577
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Braixen.set.json                       590
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Braviary.set.json                      909
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Breloom.set.json                      1684
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Brionne.set.json                       605
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bronzong.set.json                     1548
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bronzor.set.json                      1546
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bruxish.set.json                       531
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Buizel.set.json                        440
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bulbasaur.set.json                     446
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Buneary.set.json                       395
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Bunnelby.set.json                      671
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Burmy.set.json                         624
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Butterfree.set.json                   1806
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Buzzwole.set.json                      421
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cacnea.set.json                        753
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cacturne.set.json                      755
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Camerupt.set.json                      612
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Carbink.set.json                       749
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Carkol.set.json                       1262
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Carnivine.set.json                     432
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Carvanha.set.json                      488
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cascoon.set.json                       483
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Castform.set.json                     2132
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Caterpie.set.json                     1519
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Celesteela.set.json                    442
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Centiskorch.set.json                  1246
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Chandelure.set.json                    721
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Chansey.set.json                      1026
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Charizard.set.json                     469
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Charjabug.set.json                     619
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Charmander.set.json                    472
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Charmeleon.set.json                    472
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Chatot.set.json                        989
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cherrim.set.json                      1221
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cherubi.set.json                       450
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Chesnaught.set.json                    411
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Chespin.set.json                       405
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Chewtle.set.json                       381
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Chikorita.set.json                     591
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Chimchar.set.json                      642
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Chimecho.set.json                      600
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Chinchou.set.json                      477
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cinccino.set.json                      633
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cinderace.set.json                     393
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Clamperl.set.json                      558
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Clauncher.set.json                     431
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Clawitzer.set.json                     391
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Claydol.set.json                      1525
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Clefable.set.json                     1357
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Clefairy.set.json                     1357
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cleffa.set.json                        454
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Clobbopus.set.json                     519
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cloyster.set.json                      640
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Coalossal.set.json                     757
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cofagrigus.set.json                   1819
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Combee.set.json                        444
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Combusken.set.json                     395
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Comfey.set.json                        510
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Copperajah.set.json                    533
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Corphish.set.json                      420
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Corsola.set.json                      1138
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Corviknight.set.json                   576
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Corvisquire.set.json                   475
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cottonee.set.json                      562
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Crabominable.set.json                  523
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Crabrawler.set.json                    571
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cramorant.set.json                     430
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Crawdaunt.set.json                     409
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Croagunk.set.json                      568
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Crobat.set.json                       1425
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Croconaw.set.json                      567
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Crustle.set.json                       595
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cryogonal.set.json                    1119
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cubchoo.set.json                       365
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cubone.set.json                        543
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cufant.set.json                        529
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cursola.set.json                       413
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cutiefly.set.json                      433
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Cyndaquil.set.json                     390
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Darmanitan.set.json                    793
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dartrix.set.json                       407
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Darumaka.set.json                      789
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Decidueye.set.json                     597
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dedenne.set.json                       574
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Deerling.set.json                     1388
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Deino.set.json                         757
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Delcatty.set.json                      431
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Delibird.set.json                      447
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Delphox.set.json                       590
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dewgong.set.json                       475
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dewott.set.json                        576
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dewpider.set.json                      488
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dhelmise.set.json                      391
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Diggersby.set.json                     673
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Diglett.set.json                      2816
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dodrio.set.json                       1047
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Doduo.set.json                        1046
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Donphan.set.json                       433
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dottler.set.json                       554
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Doublade.set.json                      777
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dragalge.set.json                      438
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dragapult.set.json                     870
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dragonair.set.json                     556
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dragonite.set.json                    1614
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Drakloak.set.json                      867
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Drampa.set.json                        942
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Drapion.set.json                       566
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dratini.set.json                       985
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Drednaw.set.json                       381
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dreepy.set.json                        861
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Drifblim.set.json                      735
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Drifloon.set.json                      739
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Drilbur.set.json                       311
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Drizzile.set.json                      575
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Drowzee.set.json                       408
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Druddigon.set.json                     929
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dubwool.set.json                       431
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ducklett.set.json                      434
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dugtrio.set.json                      2778
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dunsparce.set.json                     700
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Duosion.set.json                       384
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Duraludon.set.json                     394
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Durant.set.json                        414
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dusclops.set.json                      980
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dusknoir.set.json                      464
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Duskull.set.json                       975
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dustox.set.json                       1208
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Dwebble.set.json                       596
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Eelektrik.set.json                     441
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Eelektross.set.json                    443
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Eevee.set.json                        1980
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Eiscue.set.json                        574
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ekans.set.json                         436
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Eldegoss.set.json                      411
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Electabuzz.set.json                    700
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Electivire.set.json                    589
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Electrike.set.json                     411
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Electrode.set.json                    1189
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Elgyem.set.json                        678
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Emboar.set.json                        403
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Emolga.set.json                        403
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Empoleon.set.json                      624
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Espeon.set.json                       1301
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Espurr.set.json                        411
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Excadrill.set.json                     313
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Exeggcute.set.json                    1215
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Exeggutor.set.json                    1348
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Exploud.set.json                       594
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Falinks.set.json                       428
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Farfetchd.set.json                    1006
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Fearow.set.json                        528
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Feebas.set.json                        935
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Fennekin.set.json                      591
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Feraligatr.set.json                    571
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ferroseed.set.json                    1032
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ferrothorn.set.json                   1033
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Finneon.set.json                       719
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Flaaffy.set.json                       432
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Flabebe.set.json                       430
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Flapple.set.json                       385
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Flareon.set.json                       826
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Fletchinder.set.json                   463
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Fletchling.set.json                    862
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Floatzel.set.json                      442
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Floette.set.json                      2069
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Florges.set.json                       429
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Flygon.set.json                        787
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Fomantis.set.json                      773
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Foongus.set.json                       654
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Forretress.set.json                    386
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Fraxure.set.json                       404
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Frillish.set.json                      412
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Froakie.set.json                       773
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Frogadier.set.json                     780
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Froslass.set.json                      440
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Frosmoth.set.json                      566
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Furfrou.set.json                       406
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Furret.set.json                        337
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gabite.set.json                        721
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gallade.set.json                       823
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Galvantula.set.json                    874
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Garbodor.set.json                      622
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Garchomp.set.json                      406
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gardevoir.set.json                     847
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gastly.set.json                       1271
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gastrodon.set.json                     416
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gengar.set.json                        672
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Geodude.set.json                      2033
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gible.set.json                         719
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Girafarig.set.json                     416
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Glaceon.set.json                       976
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Glalie.set.json                        407
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Glameow.set.json                       600
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gligar.set.json                        447
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gliscor.set.json                       408
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gloom.set.json                        1811
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gogoat.set.json                        805
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Golbat.set.json                       1420
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Goldeen.set.json                       530
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Golduck.set.json                       588
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Golett.set.json                        956
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Golisopod.set.json                     472
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Golurk.set.json                        512
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Goodra.set.json                        866
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Goomy.set.json                         555
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gorebyss.set.json                      537
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gossifleur.set.json                    416
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gothita.set.json                       754
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gothitelle.set.json                    760
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gothorita.set.json                     758
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Granbull.set.json                      386
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Grapploct.set.json                     517
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Graveler.set.json                     2034
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Greedent.set.json                      588
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Greninja.set.json                     1220
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Grimer.set.json                       1066
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Grimmsnarl.set.json                    845
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Grookey.set.json                       392
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Grotle.set.json                        405
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Grovyle.set.json                       405
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Growlithe.set.json                     954
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Grubbin.set.json                       509
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Grumpig.set.json                       403
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gulpin.set.json                        787
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gumshoos.set.json                      508
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gurdurr.set.json                       401
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Guzzlord.set.json                      435
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Gyarados.set.json                      884
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hakamoo.set.json                       512
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hariyama.set.json                      527
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hatenna.set.json                       700
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hatterene.set.json                     704
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hattrem.set.json                       698
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Haunter.set.json                      1272
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hawlucha.set.json                      528
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Haxorus.set.json                       404
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Heatmor.set.json                       423
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Heliolisk.set.json                     390
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Helioptile.set.json                    394
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Heracross.set.json                     472
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Herdier.set.json                       626
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hippopotas.set.json                    437
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hippowdon.set.json                     433
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hitmonchan.set.json                    417
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hitmonlee.set.json                     415
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hitmontop.set.json                     417
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Honchkrow.set.json                     598
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Honedge.set.json                       775
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hoothoot.set.json                      893
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hoppip.set.json                        409
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Horsea.set.json                        741
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Houndoom.set.json                     1178
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Houndour.set.json                      703
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Huntail.set.json                       563
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hydreigon.set.json                     912
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Hypno.set.json                         402
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Illumise.set.json                      554
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Impidimp.set.json                      866
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Incineroar.set.json                    629
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Indeedee.set.json                      630
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Infernape.set.json                     663
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Inkay.set.json                         460
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Inteleon.set.json                      575
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ivysaur.set.json                       441
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Jangmoo.set.json                       514
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Jellicent.set.json                     412
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Jigglypuff.set.json                    636
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Jolteon.set.json                      1246
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Joltik.set.json                        865
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Jumpluff.set.json                      412
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Jynx.set.json                          390
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Kadabra.set.json                       882
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Kakuna.set.json                       1020
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Kangaskhan.set.json                    398
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Karrablast.set.json                    462
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Kartana.set.json                       464
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Kecleon.set.json                       752
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Kingdra.set.json                       501
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Kingler.set.json                       487
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Kirlia.set.json                        860
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Klang.set.json                         709
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Kleavor.set.json                       529
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Klefki.set.json                        407
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Klink.set.json                         710
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Klinklang.set.json                     721
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Koffing.set.json                       573
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Komala.set.json                        442
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Kommoo.set.json                        530
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Krabby.set.json                        487
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Kricketot.set.json                     561
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Kricketune.set.json                    562
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Krokorok.set.json                      511
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Krookodile.set.json                    710
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lairon.set.json                       1074
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lampent.set.json                       715
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lanturn.set.json                       491
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lapras.set.json                        537
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Larvesta.set.json                      384
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Larvitar.set.json                      678
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Leafeon.set.json                      1621
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Leavanny.set.json                      577
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ledian.set.json                        492
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ledyba.set.json                        493
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lickilicky.set.json                    516
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lickitung.set.json                     514
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Liepard.set.json                       407
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lilligant.set.json                    1052
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lillipup.set.json                      628
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Linoone.set.json                      1238
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Litleo.set.json                        386
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Litten.set.json                        621
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Litwick.set.json                       716
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lombre.set.json                        717
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lopunny.set.json                       816
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lotad.set.json                         739
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Loudred.set.json                      1065
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lucario.set.json                       417
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ludicolo.set.json                      721
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lumineon.set.json                      703
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lunatone.set.json                    11572
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lurantis.set.json                      791
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Luvdisc.set.json                       513
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Luxio.set.json                         386
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Luxray.set.json                        387
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Lycanroc.set.json                     1217
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Machoke.set.json                       532
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Machop.set.json                        530
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Magby.set.json                         631
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Magcargo.set.json                     1060
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Magikarp.set.json                     1224
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Magmar.set.json                       1763
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Magnemite.set.json                     762
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Magneton.set.json                      758
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Magnezone.set.json                     760
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Makuhita.set.json                      528
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Malamar.set.json                       463
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mamoswine.set.json                     461
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mandibuzz.set.json                     487
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Manectric.set.json                     415
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mankey.set.json                        703
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mantine.set.json                       428
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Maractus.set.json                      568
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mareanie.set.json                      539
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mareep.set.json                        449
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Marill.set.json                        927
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Marowak.set.json                      1049
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Marshtomp.set.json                     440
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Masquerain.set.json                    553
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mawile.set.json                       1464
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Medicham.set.json                      401
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Meditite.set.json                      402
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Meganium.set.json                      588
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Meowstic.set.json                      414
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Meowth.set.json                       2199
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Metagross.set.json                    1480
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Metang.set.json                       1429
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Metapod.set.json                      1477
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mienfoo.set.json                       392
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mienshao.set.json                      393
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mightyena.set.json                     678
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Milcery.set.json                      1083
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Milotic.set.json                       452
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Miltank.set.json                       545
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mimikyu.set.json                      1270
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Minccino.set.json                      635
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Minior.set.json                       1067
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Minun.set.json                         550
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Misdreavus.set.json                    925
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mismagius.set.json                    1105
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Monferno.set.json                      642
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Morelull.set.json                      711
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Morgrem.set.json                       861
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Morpeko.set.json                       616
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mothim.set.json                        591
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\MrMime.set.json                        795
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\MrRime.set.json                        393
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mudbray.set.json                       645
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mudkip.set.json                        433
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Mudsdale.set.json                      645
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Muk.set.json                          1039
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Munna.set.json                         384
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Murkrow.set.json                       804
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Musharna.set.json                      574
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Natu.set.json                          793
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Nickit.set.json                        422
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Nidoking.set.json                     1208
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Nidoqueen.set.json                    1199
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Nidoranfemale.set.json                1251
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Nidoranmale.set.json                  1237
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Nidorina.set.json                     1210
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Nidorino.set.json                     1204
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Nihilego.set.json                      403
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Nincada.set.json                       551
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ninetales.set.json                    1678
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ninjask.set.json                       425
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Noctowl.set.json                       441
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Noibat.set.json                        699
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Noivern.set.json                       701
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Nosepass.set.json                      892
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Numel.set.json                         607
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Nuzleaf.set.json                       482
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Obstagoon.set.json                     414
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Octillery.set.json                     824
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Oddish.set.json                       1837
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Omastar.set.json                       376
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Onix.set.json                         1544
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Oranguru.set.json                      443
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Orbeetle.set.json                      552
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Oricorio.set.json                     1692
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Oshawott.set.json                      580
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Overqwil.set.json                      412
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pachirisu.set.json                     481
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Palossand.set.json                     547
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Palpitoad.set.json                     593
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pancham.set.json                       627
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pangoro.set.json                       626
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Panpour.set.json                       414
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pansage.set.json                       364
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pansear.set.json                       415
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Paras.set.json                        2129
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Parasect.set.json                     2140
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Passimian.set.json                     443
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Patrat.set.json                        407
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pawniard.set.json                      947
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pelipper.set.json                      571
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Perrserker.set.json                    762
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Persian.set.json                      1468
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Petilil.set.json                       536
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Phanpy.set.json                        432
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Phantump.set.json                      481
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pheromosa.set.json                     394
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pidgeot.set.json                       807
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pidgeotto.set.json                     833
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pidgey.set.json                       1593
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pidove.set.json                       1030
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pignite.set.json                       388
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pikachu.set.json                      1174
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pikipek.set.json                       997
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Piloswine.set.json                     535
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pincurchin.set.json                    435
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pineco.set.json                        379
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pinsir.set.json                        526
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Piplup.set.json                        620
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Plusle.set.json                        550
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Poipole.set.json                       434
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Poliwag.set.json                       973
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Poliwhirl.set.json                     713
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Poliwrath.set.json                    1292
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Polteageist.set.json                   959
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ponyta.set.json                        915
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Poochyena.set.json                     679
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Popplio.set.json                       605
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Porygon.set.json                       356
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Porygon2.set.json                      726
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\PorygonZ.set.json                      361
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Primarina.set.json                     609
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Primeape.set.json                      708
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Prinplup.set.json                      624
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Probopass.set.json                     873
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Psyduck.set.json                       589
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pumpkaboo.set.json                    4715
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pupitar.set.json                       676
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Purrloin.set.json                      411
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Purugly.set.json                       598
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pyroar.set.json                        384
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Pyukumuku.set.json                    1044
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Quagsire.set.json                      609
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Quilava.set.json                       386
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Quilladin.set.json                     409
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Qwilfish.set.json                     1518
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Raboot.set.json                        387
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Raichu.set.json                       1590
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ralts.set.json                         856
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Rapidash.set.json                     1255
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Raticate.set.json                     1994
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Rattata.set.json                      1986
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Relicanth.set.json                    1477
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Remoraid.set.json                      836
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Reuniclus.set.json                     388
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Rhydon.set.json                       1046
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Rhyhorn.set.json                       807
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ribombee.set.json                      409
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Rillaboom.set.json                     392
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Riolu.set.json                         413
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Rockruff.set.json                      370
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Roggenrola.set.json                   1159
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Rolycoly.set.json                     1235
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Rookidee.set.json                      878
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Roselia.set.json                       558
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Roserade.set.json                     1121
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Rotom.set.json                         881
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Rowlet.set.json                        772
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Rufflet.set.json                       884
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Runerigus.set.json                    1825
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sableye.set.json                      1576
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Salamence.set.json                    1002
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Salandit.set.json                     1031
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Salazzle.set.json                     1027
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Samurott.set.json                      580
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sandaconda.set.json                    731
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sandile.set.json                       510
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sandshrew.set.json                    1172
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sandslash.set.json                    1169
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sandygast.set.json                     549
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sawk.set.json                          550
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sawsbuck.set.json                     1380
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Scatterbug.set.json                    495
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sceptile.set.json                      407
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Scolipede.set.json                     595
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Scorbunny.set.json                     394
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Scrafty.set.json                       507
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Scraggy.set.json                       508
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Scyther.set.json                       466
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Seadra.set.json                        740
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Seaking.set.json                       529
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sealeo.set.json                        476
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Seedot.set.json                        524
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Seel.set.json                          471
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Seismitoad.set.json                    594
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sentret.set.json                       339
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Serperior.set.json                     408
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Servine.set.json                       385
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Seviper.set.json                       516
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sewaddle.set.json                      618
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sharpedo.set.json                      469
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Shedinja.set.json                      798
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Shelgon.set.json                      1014
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Shellder.set.json                     1328
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Shellos.set.json                       413
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Shelmet.set.json                       454
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Shiftry.set.json                       530
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Shiinotic.set.json                     713
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Shinx.set.json                         386
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Shroomish.set.json                    1709
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Shuckle.set.json                       880
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Shuppet.set.json                       738
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sigilyph.set.json                      733
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Silcoon.set.json                       481
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Silicobra.set.json                     729
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Simipour.set.json                      431
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Simisage.set.json                      381
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Simisear.set.json                      432
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sinistea.set.json                     1198
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sirfetchd.set.json                     507
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sizzlipede.set.json                    766
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Skarmory.set.json                      537
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Skiddo.set.json                        809
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Skiploom.set.json                      413
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Skitty.set.json                        428
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Skorupi.set.json                       585
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Skrelp.set.json                        435
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Skuntank.set.json                      427
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Skwovet.set.json                       583
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Slaking.set.json                       391
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Slakoth.set.json                       405
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sliggoo.set.json                      1112
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Slowbro.set.json                      1140
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Slowpoke.set.json                     1131
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Slugma.set.json                       1055
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Smeargle.set.json                      384
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sneasel.set.json                      1598
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sneasler.set.json                      520
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Snivy.set.json                         380
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Snom.set.json                          546
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Snorlax.set.json                      1591
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Snorunt.set.json                      1001
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Snover.set.json                        597
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Snubbull.set.json                      387
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sobble.set.json                        576
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Solosis.set.json                       386
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Solrock.set.json                      1631
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Spearow.set.json                      1041
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Spewpa.set.json                        468
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Spheal.set.json                        476
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Spinarak.set.json                      435
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Spinda.set.json                        463
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Spiritomb.set.json                     616
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Spoink.set.json                        351
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Spritzee.set.json                      590
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Squirtle.set.json                      664
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Stakataka.set.json                     443
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Stantler.set.json                      478
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Staraptor.set.json                     447
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Staravia.set.json                      466
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Starly.set.json                        868
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Starmie.set.json                      1192
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Staryu.set.json                        661
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Steenee.set.json                       552
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Stonjourner.set.json                   393
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Stoutland.set.json                     606
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Stufful.set.json                       341
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Stunfisk.set.json                     1400
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Stunky.set.json                        425
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sudowoodo.set.json                     345
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sunflora.set.json                      461
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sunkern.set.json                       481
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Surskit.set.json                       413
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Swablu.set.json                        424
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Swadloon.set.json                      598
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Swalot.set.json                        787
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Swampert.set.json                      438
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Swanna.set.json                        427
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Swellow.set.json                       425
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Swinub.set.json                        530
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Swirlix.set.json                       597
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Swoobat.set.json                       772
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Sylveon.set.json                       828
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Taillow.set.json                       795
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Talonflame.set.json                    933
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Tangela.set.json                       408
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Tangrowth.set.json                     411
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Tauros.set.json                        427
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Teddiursa.set.json                     365
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Tentacool.set.json                     534
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Tentacruel.set.json                   1018
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Tepig.set.json                         384
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Thievul.set.json                       424
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Throh.set.json                         550
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Thwackey.set.json                      394
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Timburr.set.json                       403
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Togedemaru.set.json                    605
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Togekiss.set.json                      410
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Togetic.set.json                       409
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Torchic.set.json                       391
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Torkoal.set.json                      1562
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Torracat.set.json                      625
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Torterra.set.json                      409
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Totodile.set.json                      568
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Toucannon.set.json                     511
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Toxapex.set.json                       536
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Toxel.set.json                         566
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Toxicroak.set.json                     574
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Toxtricity.set.json                   1151
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Tranquill.set.json                     549
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Trapinch.set.json                      478
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Treecko.set.json                       405
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Tropius.set.json                       385
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Trubbish.set.json                      527
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Trumbeak.set.json                      531
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Tsareena.set.json                      574
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Turtonator.set.json                   1380
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Turtwig.set.json                       408
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Tympole.set.json                       408
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Tynamo.set.json                        744
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Typhlosion.set.json                    392
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Tyranitar.set.json                     414
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\UltraWormhole.set.json                 742
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Umbreon.set.json                      1735
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Unfezant.set.json                      526
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Unown.set.json                         426
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ursaluna.set.json                      535
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Ursaring.set.json                      362
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Vanillish.set.json                     578
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Vanillite.set.json                     495
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Vanilluxe.set.json                     542
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Vaporeon.set.json                     1363
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Venipede.set.json                      594
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Venomoth.set.json                     1117
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Venonat.set.json                       884
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Venusaur.set.json                      443
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Vespiquen.set.json                     576
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Vibrava.set.json                       390
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Victreebel.set.json                   1238
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Vigoroth.set.json                      391
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Vikavolt.set.json                      492
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Vileplume.set.json                    1829
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Vivillon.set.json                     7695
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Volbeat.set.json                       552
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Volcarona.set.json                    1076
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Voltorb.set.json                       767
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Vullaby.set.json                       638
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Vulpix.set.json                       1787
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Wailmer.set.json                       424
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Wailord.set.json                       408
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Walrein.set.json                       477
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Wartortle.set.json                     665
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Watchog.set.json                       409
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Weavile.set.json                      1453
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Weedle.set.json                       1036
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Weepinbell.set.json                   1165
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Weezing.set.json                      1055
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Whimsicott.set.json                    565
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Whirlipede.set.json                    598
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Whiscash.set.json                      668
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Whismur.set.json                      1088
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Wigglytuff.set.json                    636
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Wimpod.set.json                        450
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Wingull.set.json                       568
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Wishiwashi.set.json                    368
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Wobbuffet.set.json                     694
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Woobat.set.json                        773
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Wooloo.set.json                        429
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Wooper.set.json                        605
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Wormadam.set.json                      759
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Wurmple.set.json                       716
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Wynaut.set.json                        332
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Wyrdeer.set.json                       453
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Xatu.set.json                          403
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Xurkitree.set.json                     634
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Yamask.set.json                       3693
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Yamper.set.json                        847
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Yanma.set.json                         542
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Yanmega.set.json                       544
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Yungoos.set.json                       507
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Zangoose.set.json                      520
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Zebstrika.set.json                     426
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Zigzagoon.set.json                    1236
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Zoroark.set.json                      1546
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Zorua.set.json                        1163
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Zubat.set.json                        1439
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\standard\Zweilous.set.json                      765
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Applin Sweet Scent.set.json          638
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Axew Sweet Scent.set.json            352
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Baltoy Line Sweet Scent.set.json    1044
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Bounsweet Line Sweet Scent.set...   1483
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Burmy Line Sweet Scent.set.json     1184
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Cacnea Line Sweet Scent.set.json    1076
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Carnivine Sweet Scent.set.json       411
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Caterpie Line Sweet Scent.set....   1321
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Cherubi Line Sweet Scent.set.json   1302
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Combee Line Sweet Scent.set.json     758
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Cubchoo Line Sweet Scent.set.json    669
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Cutiefly Line Sweet Scent.set....    798
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Dunsparce Sweet Scent.set.json       361
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Eevee Sweet Scent.set.json           401
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Flabebe Line Sweet Scent.set.json   2824
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Gossifleur Line Sweet Scent.se...    817
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Heracross Sweet Scent.set.json       470
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Hippopotas Line Sweet Scent.se...    671
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Hoothoot Sweet Scent.set.json        442
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Impidimp Line Sweet Scent.set....    947
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Karrablast Sweet Scent.set.json      458
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Ledyba Line Sweet Scent.set.json     842
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Lillipup Line Sweet Scent.set....    761
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Lotad Sweet Scent.set.json           355
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Maractus Sweet Scent.set.json        565
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Milcery Sweet Scent.set.json        1121
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Minccino Line Sweet Scent.set....    768
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Morpeko Sweet Scent.set.json         428
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Mothim Sweet Scent.set.json          427
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Nidoranfemale Sweet Scent.set....    437
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Nidoranmale Sweet Scent.set.json     433
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Nincada Sweet Scent.set.json         548
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Oddish Sweet Scent.set.json          445
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Oricorio Sweet Scent.set.json       1737
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Petilil Line Sweet Scent.set.json    798
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Phanpy Line Sweet Scent.set.json     766
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Pinsir Sweet Scent.set.json          440
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Ralts Line Sweet Scent.set.json      756
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Roselia Sweet Scent.set.json         424
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Sandshrew Line Sweet Scent.set...   2093
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Scyther Sweet Scent.set.json         407
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Seedot Sweet Scent.set.json          501
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Shelmet Sweet Scent.set.json         449
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Slowpoke Line Sweet Scent.set....   2557
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Sneasel Sweet Scent.set.json         538
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Snom Line Sweet Scent.set.json       851
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Snover Line Sweet Scent.set.json     750
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Spinarak Line Sweet Scent.set....    814
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Spritzee Sweet Scent.set.json        544
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Stantler Sweet Scent.set.json        449
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Sunkern Line Sweet Scent.set.json    760
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Swirlix Sweet Scent.set.json         551
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Teddiursa Sweet Scent.set.json       664
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Vanillite Line Sweet Scent.set...    981
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Venonat Line Sweet Scent.set.json    848
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Vivillon Sweet Scent.set.json        430
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Weedle Line Sweet Scent.set.json    1186
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Whismur Sweet Scent.set.json         364
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Wurmple Line Sweet Scent.set.json   2334
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Yamper Line Sweet Scent.set.json     796
+F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\sweetscent\Zubat Sweet Scent.set.json           514
