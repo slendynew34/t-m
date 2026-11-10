@@ -1,3 +1,6 @@
+PS F:\PokeForms-1.12.2-14.23.5.2864-mdk> Get-ChildItem ".\run\pixelmon\spawning" -Recurse -File |
+>> Select-Object FullName, Length
+
 FullName                                                                                                        Length
 --------                                                                                                        ------
 F:\PokeForms-1.12.2-14.23.5.2864-mdk\run\pixelmon\spawning\default\caverock\Aron Line Caverock.set.json            944
